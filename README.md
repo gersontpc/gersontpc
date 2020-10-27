@@ -7,7 +7,7 @@
 <h3>  About Me!</h3>
 
   🙋🏻‍♂️ &nbsp; Exploring new technologies, automate tasks and share knowledge.  
-  💼 &nbsp; Working as a SysAdmin/DevOps at [ZUP](https://www.zup.com.br/).
+  💼 &nbsp; Working as a SRE/DevOps at [ZUP](https://www.zup.com.br/).
 
 <h3>⚙️ Stack</h3>
 
