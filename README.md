@@ -7,7 +7,7 @@
 <h3>  About Me!</h3>
 
   🙋🏻‍♂️ &nbsp; Exploring new technologies, automate tasks and share knowledge.  
-  💼 &nbsp; Working as a SysAdmin/DevOps at [EvoluServices](https://br.evoluservices.com).
+  💼 &nbsp; Working as a SysAdmin/DevOps at [ZUP](https://www.zup.com.br/).
 
 <h3>⚙️ Stack</h3>
 
