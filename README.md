@@ -2,9 +2,10 @@
 <div align="center">
 <h2>I'm Gerson Carneiro!</h2>
 <a href="https://www.linuxnaweb.com"><img src="https://gersoncarneiro.dev/commons/this-is-fine-profile.png"></a>
+  
 <h3>  About Me!</h3>
   🙋🏻‍♂️ &nbsp; Exploring new technologies, automate tasks and share knowledge.  
-  💼 &nbsp; I'am Speclialist SRE/DevOps/Platform Engineering at [Itaú Unibanco](https://www.itau.com.br/).
+  💼 &nbsp; I'am Speclialist SRE/DevOps/Platform Engineering
 
 <h3>⚙️ Stack</h3>
 
