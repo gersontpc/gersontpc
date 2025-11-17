@@ -1,31 +1,30 @@
 
 <div align="center">
 <h2>I'm Gerson Carneiro!</h2>
-
-<a href="https://www.linuxnaweb.com"><img src="https://github.com/gersontpc/gersontpc/blob/master/assets/linuxnaweb.png"></a>
-
+<a href="https://www.linuxnaweb.com"><img src="https://gersoncarneiro.dev/commons/this-is-fine-profile.png"></a>
 <h3>  About Me!</h3>
-
   🙋🏻‍♂️ &nbsp; Exploring new technologies, automate tasks and share knowledge.  
-  💼 &nbsp; I'am Speclialist SRE/DevOps at [Itaú Unibanco](https://www.itau.com.br/).
+  💼 &nbsp; I'am Speclialist SRE/DevOps/Platform Engineering at [Itaú Unibanco](https://www.itau.com.br/).
 
 <h3>⚙️ Stack</h3>
 
-  💻 &nbsp; ~ Linux ● Docker ● K8s ● Ansible ● Terraform ● Packer ~  
+  💻 &nbsp; ~ Linux ● Docker ● K8s ● Ansible ● Terraform ● Packer ● AWS ● Python ~  
   ⭐ &nbsp; ~ Ubuntu ● VsCode ● Terminator ● Vim ● ZSH ~
 
 <h3>🛠️ Projects:</h3>
 
-  🐧 &nbsp; Linux na Web ~ [@linuxnaweb](https://www.linuxnaweb.com/@linuxnaweb)
+  🐧 Linux na Web ~ [@linuxnaweb](https://www.linuxnaweb.com/)  
+  🧔🏻‍♂️ Blog Tech Personal ~ [https://gersoncarneiro.dev](https://gersoncarneiro.dev)
 
 
 <h3>🤩 Passions:</h3>
 
-  👨‍👩‍👧 &nbsp; Family.  
-  🤖 &nbsp; Tecnology.  
+  👨‍👩‍👧 &nbsp; Family
+  🤖 &nbsp; Tecnology 
   ☕ &nbsp; Coffe, much!  
-  🚙 &nbsp; Cars.  
-  🚴🏻‍♂️ &nbsp; Bicycle and Black screen!◼️  
+  🚙 &nbsp; Cars
+  🚴🏻‍♂️ &nbsp; Bicycle and Black screen!
+  🐙 &nbsp; 3d print!
 <br/>
 
 [![Gerson Carneiro GitHub Stats](https://github-readme-stats.vercel.app/api?username=gersontpc&show_icons=true)](https://github.com/gersontpc)
